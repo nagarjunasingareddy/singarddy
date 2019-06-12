@@ -1,2 +1,2 @@
-# singarddy
+# singareddy
 small project1
